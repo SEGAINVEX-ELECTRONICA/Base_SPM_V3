@@ -2,7 +2,8 @@
 ## [SEGAINVEX-Electrónica](https://www.uam.es/uam/segainvex)
 ## DESCRIPCIÓN
 ### Base para SPM  (scanning probe microscopy) 
-### Desarrollado por SEGAINVEX-Electrónica para el [Departamento de Física de la Materia Condensada de la UAM](https://www.fmc.uam.es/research/nano-spm-lab/)
+### Desarrollo de SEGAINVEX-Electrónica para el [Departamento de Física de la Materia Condensada de la UAM](https://www.nanoforces.es/)
+### Desarrollado por [Patricio Coronado Collado, ingeniero de telecomunicaciones](http://pacoco.ddns.net/)
 ### Enero 2020
 ![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Base_SPM_V3/blob/main/Imagenes/BaseSPM_20200148_1.jpg "frontal")
 
